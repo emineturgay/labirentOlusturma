@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1498687171 source:c:\users\asusx555\desktop\mnn\proje2_kontroledilmishalllerii\lab1\labirenteee\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctime>
+
+1498687171 source:c:\users\asusx555\desktop\mnn\proje2_kontroledilmishalllerii\lab1\labirente\main.cpp
+	<iostream>
+	<allegro.h>
+	<fstream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<ctime>
+
